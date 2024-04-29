@@ -1,0 +1,9 @@
+* clos-encounters
+
+OOP patterns on top of CLOSER-MOP
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/quil-lang/clos-encounters.git |
+| commit  | 9c86c1c                                              |
+| systems | clos-encounters                                      |
+|---------+------------------------------------------------------|
